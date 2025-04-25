@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>RPG Style CE Patch</name>
+	<author>crazy-dadong</author>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<packageId>crazy-dadong.RPGStyleInventory.CEPatch</packageId>
+	<description>
+	<![CDATA[
+	<h4>🎮 功能概述: RPG Style 的 Combat External 的适配补丁</h4>
+
+	修复内容：
+	✅ 新增贴身头饰装备槽
+	✅ CE Mod 槽位完整汉化
+	✅ 装备锁定图标显示
+
+	
+	📥 <b>使用须知：</b>
+	1. 必须前置加载：
+	▸ RPG Style Inventory Revamped
+	▸ Combat Extended
+	]]>
+	</description>
+	<loadAfter>
+		<li>Sandy.RPGStyleInventory.avilmask.Revamped</li>
+		<li>CETeam.CombatExtended</li>
+	</loadAfter>
+</ModMetaData>

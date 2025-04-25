@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+		<xPos>7</xPos>
+		<yPos>0</yPos>
+		
+		<validationOrder>3293</validationOrder>
+		<defName>ItemSlotCEOnHeadSkin</defName>
+		<label>Head Skin</label>
+		<apparelLayers>
+			<li>OnHead</li>
+		</apparelLayers>
+		<anchor>Left</anchor>
+	</Sandy_Detailed_RPG_Inventory.ItemSlotDef>
+</Defs>
