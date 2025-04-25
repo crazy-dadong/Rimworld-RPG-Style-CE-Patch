@@ -6,10 +6,16 @@
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
-	<packageId>crazy-dadong.RPGStyleInventory.CEPatch</packageId>
+	<packageId>CrazyDadong.RPGStyleInventory.CEPatch</packageId>
+	<modDependencies>
+		<li>
+			<packageId>CETeam.CombatExtended</packageId>
+			<displayName>Combat Extended</displayName>
+		</li>
+	</modDependencies>
 	<description>
 	<![CDATA[
-	<h4>🎮 功能概述: RPG Style 的 Combat External 的适配补丁</h4>
+	🎮 功能概述: RPG Style 的 Combat External 的适配补丁
 
 	修复内容：
 	✅ 新增贴身头饰装备槽
@@ -17,10 +23,15 @@
 	✅ 装备锁定图标显示
 
 	
-	📥 <b>使用须知：</b>
+	📥 使用须知：
 	1. 必须前置加载：
 	▸ RPG Style Inventory Revamped
 	▸ Combat Extended
+
+	🔔 推荐：
+	推荐安装 RPG Style CE Patch
+	[RPG Style CE Patch] https://steamcommunity.com/sharedfiles/filedetails/?id=3470265801
+
 	]]>
 	</description>
 	<loadAfter>
