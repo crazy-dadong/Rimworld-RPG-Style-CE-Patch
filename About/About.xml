@@ -9,8 +9,16 @@
 	<packageId>CrazyDadong.RPGStyleInventory.CEPatch</packageId>
 	<modDependencies>
 		<li>
+			<packageId>Sandy.RPGStyleInventory.avilmask.Revamped</packageId>
+			<displayName>RPG Style Inventory Revamped</displayName>
+			<downloadUrl>https://github.com/catgirlfighter/-1.0-RPG-Style-Inventory-V3.0-</downloadUrl>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2478833213</steamWorkshopUrl>
+		</li>
+		<li>
 			<packageId>CETeam.CombatExtended</packageId>
 			<displayName>Combat Extended</displayName>
+			<downloadUrl>https://github.com/CombatExtended-Continued/CombatExtended</downloadUrl>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2890901044</steamWorkshopUrl>
 		</li>
 	</modDependencies>
 	<description>
